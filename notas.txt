@@ -1,0 +1,5 @@
+Pepe:8
+Juan:10
+Lucia:3
+Alfonso:4
+Carlos:8
